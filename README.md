@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<div style="display: inline_block">
-  <a href="https://github.com/yodaylay22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yodaylay22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodaylay22&layout=compact&langs_count=7&theme=algolia"/>
+<div style="display: inline-block">
+  <a href="https://github.com/VoidGS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VoidGS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidGS&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <!--
