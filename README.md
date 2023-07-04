@@ -1,5 +1,5 @@
 <div align="center">
-	![gif](banner.gif)
+	![gif](./banner.gif)
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
