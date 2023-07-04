@@ -9,9 +9,9 @@
 - 🌱 Estou focando meus estudos em Back-end utilizando Node.js e Typescript
 - ✨ Adoro fazer bot's para Discord, um bom exemplo é meu atual projeto [Jane](https://github.com/VoidGS/jane)
 
----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-⚙️ Tecnologias principais
+- ⚙️ Tecnologias principais
 
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
