@@ -7,7 +7,7 @@
 - 👋 Olá, meu nome é Guilherme.
 - 💼 Atualmente atuo como Fullstack developer e tenho mais de 2 anos de experiência profissional.
 - 🌱 Estou focando meus estudos em Back-end utilizando Node.js e Typescript
-- ✨ Adoro fazer bot's para Discord, um bom exemplo é meu atual projeto [Tess](https://github.com/VoidGS/jane)
+- ✨ Adoro fazer bot's para Discord, um bom exemplo é meu atual projeto [Jane](https://github.com/VoidGS/jane)
 
 ---
 
