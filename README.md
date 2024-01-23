@@ -9,15 +9,17 @@
 
 - 👋 Olá, meu nome é Guilherme.
 - 💼 Atualmente atuo como Fullstack developer e tenho mais de 2 anos de experiência profissional.
-- 🌱 Estou focando meus estudos em Back-end utilizando Node.js e Typescript
-- ✨ Adoro fazer bot's para Discord, um bom exemplo é meu atual projeto [Jane](https://github.com/VoidGS/jane)
+- 🌱 Estou focando meus estudos em `Laravel` e `Vue`
+- ✨ Adoro fazer bot's para Discord, um bom exemplo é meu último projeto [Jane](https://github.com/VoidGS/jane)
 
 <hr>
 
 - ⚙️ Tecnologias principais
 
 <ul>
-	
+
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![PHP](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
