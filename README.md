@@ -8,7 +8,7 @@
 ---
 
 - 👋 Olá, meu nome é Guilherme.
-- 💼 Atualmente atuo como Fullstack developer e tenho mais de 2 anos de experiência profissional.
+- 💼 Atualmente atuo como Fullstack developer e tenho mais de 3 anos de experiência profissional.
 - 🌱 Estou focando meus estudos em `Laravel` e `Vue`
 - ✨ Adoro fazer bot's para Discord, um bom exemplo é meu último projeto [Jane](https://github.com/VoidGS/jane)
 
